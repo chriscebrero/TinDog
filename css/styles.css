@@ -75,3 +75,13 @@ p {
 	padding: 5%;
 }
 
+.icon {
+	color: #ef8172;
+	margin-bottom: 1.5rem;
+}
+
+.icon:hover {
+	color: #ff4c68;
+	opacity: 5%
+}
+
